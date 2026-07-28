@@ -1,0 +1,2237 @@
+{
+  "name": "Decagon · English (US)",
+  "locale": "en-US",
+  "sections": [
+    {
+      "title": "Tone range",
+      "kind": "phrases",
+      "hint": "Read each line varying the register. Natural, not announcer voice.",
+      "items": [
+        {
+          "text": "Prosecutors have opened a sweeping investigation into alleged match-fixing and illegal betting."
+        },
+        {
+          "text": "Different telescope designs work in different ways and have different strengths and weaknesses."
+        },
+        {
+          "text": "We can keep strengthening the training of good lawyers."
+        },
+        {
+          "text": "Feedback should be timely and accurate throughout the whole project."
+        },
+        {
+          "text": "Humans also judge distance using the relative size of objects."
+        },
+        {
+          "text": "Churches shouldn't encourage it or make it seem harmless."
+        },
+        {
+          "text": "Learn how to set up a wireless network."
+        },
+        {
+          "text": "They can be eaten fresh, cooked, or fermented."
+        },
+        {
+          "text": "If this is true, people who tend to think creatively really are different in some way."
+        },
+        {
+          "text": "They'll most likely jump for joy and want to skip straight to the honeymoon."
+        },
+        {
+          "text": "The syrup should form very fine threads of sugar falling over the mangoes."
+        },
+        {
+          "text": "But really, in the grand scheme of things, this information is insignificant."
+        },
+        {
+          "text": "I let the positive outweigh the negative."
+        },
+        {
+          "text": "He wiped his forehead with his forearm."
+        },
+        {
+          "text": "Instead of fixing it, they give it a nickname."
+        },
+        {
+          "text": "About half of the people infected also lose weight."
+        },
+        {
+          "text": "The second half of the book focuses on writing arguments and essays."
+        },
+        {
+          "text": "We have the means to help ourselves."
+        },
+        {
+          "text": "Oversized items are placed in containers for disposal."
+        },
+        {
+          "text": "He loves watching me drink this."
+        },
+        {
+          "text": "Still, it's a pretty peculiar fashion choice."
+        },
+        {
+          "text": "Funding is always an afterthought."
+        },
+        {
+          "text": "Let's encourage one another."
+        }
+      ]
+    },
+    {
+      "title": "Conversational phrases",
+      "kind": "phrases",
+      "hint": "Everyday conversation. Natural tone, like with a friend.",
+      "items": [
+        {
+          "text": "Hey, how's it going? I'll be there in about ten minutes."
+        },
+        {
+          "text": "Can you help me with this for a sec?"
+        },
+        {
+          "text": "That sounds like a great idea."
+        },
+        {
+          "text": "Tell me what you think."
+        },
+        {
+          "text": "Okay, but hear me out for a second."
+        },
+        {
+          "text": "Honestly, it's not a bad idea, now that I think about it."
+        },
+        {
+          "text": "I don't know, maybe? It depends."
+        },
+        {
+          "text": "Wait, when did that happen?"
+        },
+        {
+          "text": "Yeah, that makes sense. It's totally logical."
+        },
+        {
+          "text": "I swear I had it right here a second ago."
+        },
+        {
+          "text": "You know what, I'm just going to let it go."
+        },
+        {
+          "text": "Honestly, same. I completely get it."
+        },
+        {
+          "text": "Almost forgot — did you ever get that one done?"
+        },
+        {
+          "text": "Right? I mean, exactly. That's what I said."
+        },
+        {
+          "text": "No, go on, I'm listening."
+        },
+        {
+          "text": "Look, here's the thing…"
+        },
+        {
+          "text": "I won't lie to you, that one did surprise me."
+        },
+        {
+          "text": "It's just — yeah. Yeah, I know."
+        },
+        {
+          "text": "You're right, I'll give you that."
+        },
+        {
+          "text": "Oh, since you mention it — I wanted to ask you something."
+        },
+        {
+          "text": "Can we pause for a second and appreciate that?"
+        },
+        {
+          "text": "I have a feeling we've had this conversation before."
+        },
+        {
+          "text": "Yeah, but that's completely different and you know it."
+        },
+        {
+          "text": "I don't even remember how we got onto this topic."
+        },
+        {
+          "text": "Wait, is that today? I thought it was next week."
+        }
+      ]
+    },
+    {
+      "title": "Questions",
+      "kind": "phrases",
+      "hint": "Vary the intonation of each question. Avoid a monotone pattern.",
+      "items": [
+        {
+          "text": "What time is it right now?"
+        },
+        {
+          "text": "Do you know where the nearest store is?"
+        },
+        {
+          "text": "Can you show me how that's done?"
+        },
+        {
+          "text": "Is there anything else I should know?"
+        },
+        {
+          "text": "Seriously?"
+        }
+      ]
+    },
+    {
+      "title": "Emotions",
+      "kind": "phrases",
+      "hint": "The same line with different emotions. Perform the one indicated.",
+      "items": [
+        {
+          "text": "I can't believe it!",
+          "emotion": "Excited"
+        },
+        {
+          "text": "I can't believe it…",
+          "emotion": "Disappointed"
+        },
+        {
+          "text": "It's amazing!",
+          "emotion": "Joyful"
+        },
+        {
+          "text": "It's amazing.",
+          "emotion": "Sad"
+        },
+        {
+          "text": "Seriously?",
+          "emotion": "Angry"
+        },
+        {
+          "text": "Seriously?",
+          "emotion": "Playful"
+        },
+        {
+          "text": "Oh my gosh, I completely forgot!",
+          "emotion": "Nervous"
+        },
+        {
+          "text": "Oh my gosh, I completely forgot.",
+          "emotion": "Guilty"
+        },
+        {
+          "text": "I can't believe it.",
+          "emotion": "Exasperated"
+        },
+        {
+          "text": "I can't believe it.",
+          "emotion": "Delighted"
+        },
+        {
+          "text": "Finally!",
+          "emotion": "Relieved"
+        },
+        {
+          "text": "Finally.",
+          "emotion": "Disappointed"
+        },
+        {
+          "text": "I figured as much.",
+          "emotion": "Confident"
+        },
+        {
+          "text": "I figured as much…",
+          "emotion": "Sad"
+        },
+        {
+          "text": "No problem at all!",
+          "emotion": "Friendly"
+        },
+        {
+          "text": "It's okay.",
+          "emotion": "Sad"
+        },
+        {
+          "text": "We'll figure it out.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "We'll figure it out?",
+          "emotion": "Uncertain"
+        }
+      ]
+    },
+    {
+      "title": "Identity & style",
+      "kind": "phrases",
+      "hint": "Lines with personality. Bring your own style.",
+      "items": [
+        {
+          "text": "You're the best."
+        },
+        {
+          "text": "Come on, let's get to work."
+        },
+        {
+          "text": "Perfect, I've got this."
+        },
+        {
+          "text": "This is exactly what I needed."
+        },
+        {
+          "text": "Just a little reminder to stay focused and keep going."
+        }
+      ]
+    },
+    {
+      "title": "Welcome messages",
+      "kind": "phrases",
+      "hint": "Agent opening greetings. One per take.",
+      "items": [
+        {
+          "text": "Hi. I'm the AI virtual assistant for the airline. I'm here to help with any questions about your travel with us. How can I help you today?"
+        },
+        {
+          "text": "Hi, I'm Alex from the bank. How can I help you today?"
+        },
+        {
+          "text": "Hi, you're speaking with a beta version of our AI. Ask me about spending power, returns, payments, or anything else — the more detail, the better."
+        },
+        {
+          "text": "Hi! I'm Finn, the bank's virtual assistant. How can I help you?"
+        },
+        {
+          "text": "Hi, thanks for calling. How can I help you today?"
+        },
+        {
+          "text": "Hi! I'm the AI virtual assistant for Wealthsimple. How can I help you today?"
+        },
+        {
+          "text": "Hi! Thanks for calling the parking app. I'm here to make your parking as easy as possible. Would you like to start a new session?"
+        },
+        {
+          "text": "Hi, I'm Alex, your virtual scheduling specialist at the advisory office. Would you like to book a new appointment or change an existing one?"
+        },
+        {
+          "text": "Hi, I'm your virtual agent for the property servicer. How can I help you today?"
+        },
+        {
+          "text": "Hi, I'm your customer-support assistant for your benefits provider. How can I help you today?"
+        },
+        {
+          "text": "Hi, I'm Alice, your virtual assistant. To get started, could you give me your reservation or confirmation number?"
+        },
+        {
+          "text": "Hi! I'm the smart assistant for the bank and I'm here to help. How are you doing?"
+        },
+        {
+          "text": "Hi, I'm Alex from the department store. How can I help you today?"
+        },
+        {
+          "text": "Welcome to the bank. Ask me anything — ideas, quick answers — I'll do my best to help."
+        },
+        {
+          "text": "Hi, I'm your virtual assistant for the delivery app. How can I help with your order?"
+        },
+        {
+          "text": "Hi, I'm your virtual assistant for the health provider. How can I help you today?"
+        },
+        {
+          "text": "Thanks for calling the hotel. Calls are recorded for quality and training. Who do I have the pleasure of speaking with?"
+        },
+        {
+          "text": "Hi! Thanks for calling the family-finance and security app. We and our providers may monitor and record this call per our Privacy Statement. If at any point you're not happy during the call, just say “Representative.” My name is Alex — who do I have the pleasure of speaking with?"
+        },
+        {
+          "text": "Hi, I'm the delivery app's virtual agent. All communications with me are subject to the Privacy Policy, available on our website. How can I help you today?"
+        }
+      ]
+    },
+    {
+      "title": "Fillers",
+      "kind": "phrases",
+      "hint": "Natural filler phrases with an assigned tone. Short clips.",
+      "items": [
+        {
+          "text": "Okay. Your bill due date will move to the 23rd, with a possible variation each month.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I understand. The fee applies if payment isn't received before the due date.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "One moment. I can identify the charge, but I can't remove that late fee from here.",
+          "emotion": "Understanding"
+        },
+        {
+          "text": "Let me see. I'm pulling up your account details right now.",
+          "emotion": "Inquisitive"
+        },
+        {
+          "text": "Let me check. I don't see a bank transfer from today, but there is one from two days ago.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "One moment. I don't see any refund request on that account.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Great. I've updated your billing preferences accordingly.",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "Ah, okay. The late fee on the bill is forty-six dollars and eight cents.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Ah, okay. You can give me the authorized user's name.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Good. I've found the refund you're calling about.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Let me verify. I don't see any account with that date of birth. Let's try something else.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "One moment, please. It looks like your account is currently locked for unpaid fees.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "One moment, please. I see you booked a one-way trip to Seville on February 28th.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Ah, that helps me understand the situation better — I'll keep it in mind.",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "Perfect. I've set up your automatic payments to repeat monthly.",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "Perfect. I've booked your reservation for two on March 31st at seven in the evening.",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "Ah, I see. That explains why the charge showed up on your statement.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Okay. From what you've told me, I'd recommend starting with a payment plan.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Okay. I'm going to forward this to our billing team.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Alright, let's see. We received your last payment on April fourteenth.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Great, thank you. I'll note that on your account.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Ah, I see. It looks like a duplicate charge was applied last month.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Good question. The credit usually takes three to five business days to appear on your statement.",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "Okay, perfect. I'm updating the address to fourteen Clarence Street.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Okay, let me check. I don't see any hold on your checking account ending in two two three eight.",
+          "emotion": "Inquisitive"
+        },
+        {
+          "text": "Okay, let me see. It looks like your plan renews on the 15th of next month.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Got it. Could you tell me why you'd like to return the item?",
+          "emotion": "Inquisitive"
+        },
+        {
+          "text": "You're welcome. Is there anything else I can help you with today?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "Okay, let me check. It looks like you qualify for that promotion!",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "Okay, let me see. Your available balance is one thousand two hundred forty-five dollars in the account ending in four four three five.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Alright, noted. I'll make sure to search for first-class tickets only.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Okay, I understand. It looks like your subscription auto-renewed last week.",
+          "emotion": "Understanding"
+        },
+        {
+          "text": "Alright, thank you. I just need the billing ZIP code to process your refund.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Okay, thanks. Let me pull up the order history.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Alright. I'll make the reservation under the name “John Snow.”",
+          "emotion": "Confident"
+        },
+        {
+          "text": "Of course. I'll send a confirmation to the email address we have on file.",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "Got it. I see a pending credit of fifteen dollars on your account.",
+          "emotion": "Confident"
+        },
+        {
+          "text": "Okay, one moment. I've found five recent Apple transactions.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Ah, okay. I'm moving the appointment from Thursday to Friday.",
+          "emotion": "Understanding"
+        },
+        {
+          "text": "No problem. What's the reason you need to replace your card — was it stolen, damaged, or lost?",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Perfect, let me check. Your next bill is due on September 8th.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm looking into it, one moment. I have a prescription ready for you — is this still the medication you'd like to refill?",
+          "emotion": "Helpful"
+        },
+        {
+          "text": "Let's see. We have three therapists for you to choose from.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Of course, take your time. Let me know when you're ready to continue.",
+          "emotion": "Helpful"
+        },
+        {
+          "text": "One moment… It looks like you don't have enough points to redeem the flight you're trying to book.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Got it. Since you'll be away, I can ship the package to arrive Monday when you're back.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Okay, one moment… I've restarted your router. Let me know if that fixed the problem.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I understand… Would you prefer to use the card we have on file or a new one?",
+          "emotion": "Inquisitive"
+        },
+        {
+          "text": "One moment… The pharmacy on Main Street is open Monday to Friday, nine a.m. to seven p.m.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Yes, that matches what I'm seeing on my end.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Yes, look. It seems the discrepancy in the account balance is due to a refund that hasn't fully processed yet.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Yes, of course. I can look into the possibility of waiving your annual fee.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Yes, absolutely. Let me pull up those details.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Yes, I understand. So you're telling me the charge appeared twice, correct?",
+          "emotion": "Confident"
+        },
+        {
+          "text": "Yes, I understand. In that case, would you prefer to close or reopen the claim?",
+          "emotion": "Confident"
+        },
+        {
+          "text": "Yes, okay. Let me go ahead and take care of it right now.",
+          "emotion": "Helpful"
+        },
+        {
+          "text": "Yes, exactly. That's why Nick didn't receive his bank transfer.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Yes, of course. I understand why that would be frustrating.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Yes, definitely. I'll make sure to remind you when you have a payment coming up.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "So… you'd like to place an order for three fries, two sodas, and one chicken burger. Is that right?",
+          "emotion": "Inquisitive"
+        },
+        {
+          "text": "Well… since the package was delivered less than twenty-four hours ago, is it possible a neighbor picked it up by mistake?",
+          "emotion": "Inquisitive"
+        },
+        {
+          "text": "Okay. For the new card, would you prefer standard or express shipping?",
+          "emotion": "Inquisitive"
+        },
+        {
+          "text": "Alright. Based on your account history, you qualify for a one-time waiver.",
+          "emotion": "Confident"
+        },
+        {
+          "text": "That's right. Unfortunately, residents of that community don't qualify for the tax deduction.",
+          "emotion": "Empathetic"
+        },
+        {
+          "text": "And that's why the charge appeared on your account.",
+          "emotion": "Empathetic"
+        },
+        {
+          "text": "And… are you planning to travel with any children under five?",
+          "emotion": "Inquisitive"
+        },
+        {
+          "text": "So… I'll go ahead and set that up for you.",
+          "emotion": "Helpful"
+        },
+        {
+          "text": "Now… you should have received a text at the number ending in one two two three.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "In any case… let me focus on getting this resolved for you.",
+          "emotion": "Helpful"
+        },
+        {
+          "text": "One moment. Before we continue, is there any other detail about the reservation I should know?",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Sorry — was that N as in November, or M as in Mike?",
+          "emotion": "Inquisitive"
+        },
+        {
+          "text": "One moment. Let me check the order before I continue helping you.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Hold on a second. There's a discount I can apply for you — one sec.",
+          "emotion": "Helpful"
+        },
+        {
+          "text": "Well… I just fixed the problem. Can you refresh your browser and check if it's resolved?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "Let's see… Your account shows a credit balance of twenty-two dollars that we can apply today.",
+          "emotion": "Helpful"
+        },
+        {
+          "text": "Of course. I can walk you step by step through resetting your password.",
+          "emotion": "Helpful"
+        },
+        {
+          "text": "Absolutely! I'd be happy to help you with that.",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "Yes. Your refund has been approved and will appear within five to seven business days.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Exactly! That's precisely the promotion I was about to mention.",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "Of course. I'll note your preference and update your account.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Of course. Is there anything else I can help you with?",
+          "emotion": "Helpful"
+        },
+        {
+          "text": "Absolutely. I understand the policy can be confusing.",
+          "emotion": "Empathetic"
+        },
+        {
+          "text": "Perfect. Your new plan takes effect at the start of the next billing cycle.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Ah, I see. So the original charge was for the annual plan, not the monthly one.",
+          "emotion": "Understanding"
+        },
+        {
+          "text": "Ah, okay. Would you prefer we start over?",
+          "emotion": "Understanding"
+        },
+        {
+          "text": "Perfect, done. I've applied the promo code to your account.",
+          "emotion": "Helpful"
+        },
+        {
+          "text": "Exactly. And since it's your first late payment, I can waive that fee as a courtesy.",
+          "emotion": "Helpful"
+        },
+        {
+          "text": "Got it. I'll mark it as priority and someone will contact you within twenty-four hours.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Got it. So you'd like to keep the account open but cancel the subscription — I can do that.",
+          "emotion": "Understanding"
+        }
+      ]
+    },
+    {
+      "title": "Numbers · individual",
+      "kind": "phrases",
+      "hint": "Clear, separated digits.",
+      "items": [
+        {
+          "text": "One by one: zero, one, two, three, four, five, six, seven, eight, nine."
+        },
+        {
+          "text": "In reverse: nine, eight, seven, six, five, four, three, two, one, zero."
+        },
+        {
+          "text": "Digit by digit: six, four, two — eight, one, nine — zero, three, five."
+        },
+        {
+          "text": "Confirm the code digit by digit: seven, seven, two, three."
+        }
+      ]
+    },
+    {
+      "title": "Numbers · in context",
+      "kind": "phrases",
+      "hint": "Numbers inside real sentences.",
+      "items": [
+        {
+          "text": "Your refund total is one hundred fifty-four dollars and forty-nine cents."
+        },
+        {
+          "text": "Your appointment is at eight-thirty in the morning."
+        },
+        {
+          "text": "Your case number is two, zero, two — zero, zero, nine — four, two, one."
+        },
+        {
+          "text": "The deadline is September fifteenth, twenty twenty-four."
+        }
+      ]
+    },
+    {
+      "title": "CSR · 30 seconds",
+      "kind": "phrases",
+      "hint": "Short customer-service scripts with style and tone. Read them in your own words.",
+      "items": [
+        {
+          "text": "Hi, I'm your virtual customer-service assistant. I'm here to help with any questions about your account, recent purchases, or technical support. How can I help you today?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I understand you're having trouble signing in. Let's fix it together. First, check that Caps Lock is off. Then try clearing your browser's cache and cookies. If you still can't get in, we can reset your password. Would you like to try these steps first?",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Let me pull up your order. I see order #85271 from March 15th. It includes the wireless earbuds at one hundred twenty-nine dollars and ninety-nine cents and the protective case at fourteen dollars and fifty cents, for a total of one hundred fifty-four forty-nine. The package is on its way, with delivery expected March 20th between 2 and 5 p.m. Would you like me to email you the tracking?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm so sorry your new device isn't working the way it should. That must be frustrating, especially with your presentation coming up. Let me help. First I'll walk you through a few quick diagnostics, and if we can't fix it, I'll connect you with our specialized tech-support team for more advanced help.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "I've successfully processed your refund for the returned items on order #95173. Here's the breakdown: the full amount of one hundred thirty-four dollars and fifty cents goes back to your original payment method within 3 to 5 business days. You'll get a confirmation email shortly. Is there anything about the refund process you'd like me to clarify?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "I see you've been a valued premium subscriber for over two years. I'd love to share a few new features you might find useful. We recently launched advanced reporting tools and expanded support to 24/7. Would you like me to walk you through them?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "I completely understand this delayed delivery is causing you a lot of trouble. I'm escalating this to our priority shipping team right now. They can expedite your order and give it special handling. While I create the escalation ticket, could you confirm the best number for updates? And don't worry — we'll also offer compensation for the delay.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "I understand the mobile app keeps crashing. Let's fix it together. First, force-close the app by swiping it away from recent apps. Then go to your phone's Settings, find our app, and clear both cache and data. After that, restart the phone and try opening the app again. Let me know when you've done these steps.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Thanks for those details about the billing discrepancy. Let me review your recent statement. I've gone carefully through your account history from January to March, and I can see where the overlap happened. I'll break down the charges and explain how we'll adjust your next statement to reflect the correct amount.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I'm pulling up your reservation now. I see you've booked our deluxe ocean-view room, checking in Friday, July 15th at 3:00 PM and out Monday, July 18th at 11:00 AM. Your stay total is one hundred seventy-five dollars and fifty cents, including the weekend surcharge and resort fees. Would you like a detailed breakdown of these charges?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Let me review your subscription settings. I see your premium access is set to expire next week. To avoid any interruption, would you like me to explain the renewal process? Right now we have a special loyalty discount for long-standing members like you.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Based on your device's error code, it looks like there may be a conflict with your system's firewall settings. Let's adjust these to fix the connection issue. Open System Preferences, choose Security & Privacy, and click the Firewall tab. I'll guide you through the settings.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I understand you're having trouble with your smart thermostat's temperature readings. First, make sure the device is firmly mounted and away from any heat source. Next, open the device settings in the mobile app and select “Recalibrate sensor.” The process takes about 2 minutes.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I see an unauthorized charge on your account. I'll help you with this right away. I'm temporarily locking your card to prevent further unauthorized transactions. Now, I'll connect you with our fraud-prevention team, who will help you dispute this charge and protect your account.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Your flight booking has been changed successfully. The new departure is 2:15 PM on Tuesday, March 12th, from Terminal B, Gate 23. The change fee has been waived due to the weather advisory. Would you like me to email your updated boarding pass?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Welcome back. I see this is your first time signing in since we updated our mobile banking interface. Would you like a quick tour of the new features? I can show you where to find your transaction history, how to set up recurring payments, and how to use our new budgeting tools.",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To fix the syncing issue between your fitness band and your phone, make sure Bluetooth is on for both devices. Then open the fitness app, tap the menu icon in the top right, choose 'Devices,' and select 'Reset connection.' After that, follow the on-screen pairing instructions.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I've reviewed your warranty claim for the defective keyboard. I'm escalating it to our product-specialist team. They'll need to do a detailed assessment of the reported issues. While I create the case, could you confirm when you first noticed the keys sticking? That'll help speed up the review.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Your virtual visit with Dr. Thompson is confirmed for Thursday, September 8th at 10:30 AM Eastern. The session will last about 45 minutes. Please log in 5 minutes early to check your connection. Would you like me to send the prep instructions?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Let's troubleshoot your printer's connection issues. First, restart both the printer and the computer. Once both are on, check whether the printer appears in your device list. If not, try removing it and re-adding it using the IP address shown on the printer's screen.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Based on your vehicle's diagnostic report, the check-engine light came on due to a faulty oxygen sensor. I'd recommend scheduling a service appointment to replace this part. The repair usually takes about 2 hours and is covered by your extended warranty.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I've been analyzing your energy-use patterns. Your smart-home system shows a 40% increase in usage between 2 and 4 p.m. daily. Would you like me to help set up automatic temperature adjustments to optimize your efficiency?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To turn on parental controls for your streaming account, first sign in to your profile settings. Select 'Account management,' then 'Viewing restrictions.' You can set age-appropriate content filters and create a PIN required to access any restricted content.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I see your last three payments were declined. Let me take a closer look at the payment method on file. Here's the issue: your credit card has expired. Would you like to update your payment information now? I can guide you through it to avoid any service interruption.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Your insurance claim for the water damage has been received and assigned to claims adjuster Sarah Martinez. She'll contact you within 24 hours to schedule a property inspection. Your claim number is WD-2024-789456. Would you like me to email these details?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Oh no. I see your package has been delayed at customs. Let me escalate it to our international shipping department. They have a direct line to customs agents and can help speed up clearance. While I create the case, could you confirm whether the package contains any restricted items?",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "To fix the error message in your tax software, we'll need to clear the cached data and verify your W-2 information. Click 'Tools' in the top menu, select 'Clear and start over,' then re-enter your employment info when prompted.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your solar panels' monitoring system is showing reduced efficiency on the south-facing array. I'd recommend scheduling a maintenance check for dirt or damage. The next available appointment is Tuesday at 9:00 a.m. Shall I book that for you?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Reviewing your smart-irrigation controller… it looks like the Zone 2 sensors are reading unusually high moisture levels. This could indicate a leak. Would you like me to connect you with our emergency plumbing service to prevent possible property damage?",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "To pair your new smartwatch with the health app, make sure the watch is charged and within range of your phone. Open the app, tap 'Add device,' and hold the watch near the phone until the pairing code appears on both screens.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I see you're interested in our advanced photography course. The next session starts October 3rd and runs 12 weeks, with virtual classes every Tuesday at 7 PM Eastern. It includes hands-on assignments, professional feedback, and access to our online resource library. Would you like to hear the enrollment options?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "Let me review your investment portfolio's performance. I've noticed some interesting trends in your tech-sector holdings — they're up 12% over the last quarter. Would you like me to explain how these gains could affect your retirement planning goals?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "To set up your new home-security system, we'll start with the main control panel. Press and hold the Home button for 3 seconds until you hear a beep. Enter your 4-digit master code and select 'System setup' from the menu. I'll guide you through each setting.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your pet's annual wellness check is scheduled with Dr. Garcia for Monday, April 15th at 2:30 PM. Please arrive 10 minutes early to update your contact info. Remember to bring your pet's current medication list and any diet questions you'd like to discuss.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Oh no. I see there was a problem with your recent grocery delivery — several items arrived damaged. We sincerely apologize for this. Let me connect you with our quality-control team. They'll process an immediate refund and make sure this doesn't happen again.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "To transfer your utilities to your new address, we'll need to process a stop-service order at 742 Maple Street effective July 1st, and start service at 1235 Oak Avenue from July 2nd. The fifteen-dollar transfer fee will appear on your final bill at the current address.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I've been reviewing your language-learning progress. You've completed 85% of the intermediate Spanish course and kept a 15-day practice streak. Would you like to explore our conversation modules to keep improving?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To fix your EV charging issue, first check that the charging cable is fully seated at both ends. The indicator light should be solid green. If it's flashing red, unplug the cable, wait 30 seconds, and reconnect. That resets the charging session.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your registration for the virtual event 'Digital Marketing Trends 2024' is confirmed. The webinar starts at 11:00 AM GMT on Wednesday, May 8th. You'll receive a unique access link 24 hours before the event. Would you like me to add it to your calendar?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I see you're having trouble with the voice-recognition feature. Let me check the system logs… it looks like there may be some background noise affecting accuracy. Should we adjust the sensitivity settings, or would you prefer to speak with our accessibility specialist?",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your exercise program has been updated based on your recent progress. I've adjusted your workout intensity to fit your knee rehab. The new routine includes low-impact cardio and modified strength training. Want me to walk you through the changes?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart-fridge diagnostics… the main compartment temperature has been swinging between 3 and 7 degrees. This could indicate a sensor fault. I'll connect you with our appliance-repair team to prevent food from spoiling.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "To access your digital concert tickets, open the venue app and tap 'My events.' Your tickets for the Symphony Orchestra performance at the National Auditorium on Saturday, June 22nd at 8:00 PM will appear with a QR code. You can add them to your mobile wallet for easier access.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I see you've reached your cloud storage limit. Let me analyze your usage… interesting — it looks like you have several duplicate photo albums taking up space. Would you like help identifying and removing these duplicates to free up storage?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Your restaurant reservation for 6 is confirmed at Bella Cucina for Friday, August 9th at 7:30 PM. I've noted your request for a quiet table and the shellfish allergy in your party. The restaurant will call to confirm any specific dietary accommodations.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "To set up your new smart thermostat's geofencing, we'll set your home location and activation radius. Open the app settings, tap 'Location services,' and set your address. Then adjust the radius slider to decide when the system activates.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I see there was an error authorizing your prescription refill. I'm escalating this to our pharmacy team right away. They'll need to contact your doctor to resolve it. In the meantime, you have three days of medication left, is that right?",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Your travel-insurance claim for the canceled flight has been approved. The refund of one hundred seventy-five dollars and forty-three cents will go to your original payment method within 5 to 7 business days. This covers the flight cost and airport transportation.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I've been reviewing your solar panels' production data. Your system generated 25% more energy this month than last year. Would you like a detailed breakdown of your energy savings and environmental impact?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To fix the syncing issue with your smart lock, first remove the batteries for 30 seconds. While they're out, hold down the Program button. Reinsert the batteries and, when you hear three beeps, release the button. That resets the connection to your hub.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I see you're interested in starting meditation. Let me tell you about our guided-mindfulness program. We offer daily 10-minute sessions, personalized breathing exercises, and progress tracking. Would you like to try a sample meditation to see if it's for you?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your wireless security camera, plug it in and wait for the LED to flash blue. Then open the home-security app and select 'Add device.' When prompted, scan the QR code on the bottom of the camera to start setup.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I'm reviewing the error logs from your last video upload. It looks like the file format isn't compatible with our platform. I'll connect you with our media-specialist team. They can help convert the content without losing the original quality.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Your home's annual warranty inspection is scheduled for Tuesday, November 5th at 10:00 AM. The technician will check all major systems and appliances. Please make sure there's access to your HVAC units, water heater, and electrical panel.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Let me review your recent investment activity. I see you've turned on automatic dividend reinvestment. Based on your portfolio's performance, that's generated an extra 3.2% return this quarter. Would you like to review the compound-growth projections?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "To fix your smart TV's network connectivity, let's start by checking the Wi-Fi signal strength. Go to Settings, select Network status, and note the signal indicator. If it shows fewer than three bars, we'll troubleshoot your router placement.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I'm reviewing your flight itinerary. There's a schedule change affecting your connection in Chicago. Let me transfer you to our travel-specialist team. They can adjust your booking so you don't miss your connecting flight to Boston.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Your subscription-box preferences have been updated. Starting with your next delivery on March 25th, we'll include more plant-based options and exclude all nuts per your dietary needs. The total stays fifteen dollars and ninety-nine cents a month.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "To boost your laptop's performance, we'll update your graphics-card drivers. Open Device Manager, expand Display adapters, right-click your graphics card, and select 'Update driver.' Choose 'Search automatically' when prompted.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Let me review your business analytics dashboard. There are some very interesting trends here. Your customer engagement is up 45% since the new chat feature launched. Would you like to explore more automation options to improve response times further?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Your telehealth appointment is confirmed for Wednesday, July 10th at 3:15 PM. The virtual waiting room opens 10 minutes before your time. Please test your camera and microphone before joining the session.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your smart-garden irrigation data. The moisture sensors show uneven water distribution in zones 3 and 4. Let me connect you with our gardening specialist to see whether the sprinklers need adjusting.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new retirement-planning tools. We've integrated real-time market data and personalized risk assessments. The system can now generate tailored investment strategies based on your retirement horizon. Would you like to explore them?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up parental controls on your gaming console, first create separate profiles for each family member. Then go to Family Management in Settings, select 'Screen-time limits,' and customize the gaming schedule for each profile.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your home energy audit results are ready. The report shows potential savings of one hundred twenty dollars a year through better insulation and LED lighting. Would you like me to schedule a consultation with our energy-efficiency specialist?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your website's security certificate. It looks like the SSL certificate is about to expire. Let me transfer you to our cybersecurity team to ensure secure, uninterrupted access for your customers.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Reviewing your fitness-tracking data, your cardiovascular endurance has clearly improved over the last month. The system suggests adjusting your training zones to optimize future sessions. Would you like to review the recommended changes?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "To fix your wireless printer's connection, first make sure both your computer and the printer are on the same Wi-Fi network. Then open Printer settings, select 'Remove device,' and follow the steps to re-add the printer.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your order for prescription contact lenses has been processed. Based on your insurance coverage, your out-of-pocket cost is fifteen dollars and seventy-five cents. The lenses will ship to your home within 5 to 7 business days.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I notice some unusual activity on your credit-monitoring report. Let me transfer you to our fraud-prevention department. They'll help you review recent transactions and add extra security to your account.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Your EV charging session is complete. Total energy added was 42.5 kWh, at a cost of twelve dollars and seventy-five cents. This session added about 160 miles of range. Would you like to see this month's charging history?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your home-automation schedules. I notice possible conflicts between your HVAC settings and automated blinds that could hurt energy efficiency. Let me connect you with our home-automation specialist to optimize these settings.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new meal-planning feature. It analyzes your food preferences and nutrition goals to build personalized weekly menus. It can even generate shopping lists and suggest nearby ingredient sources. Would you like to see how it works?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To calibrate your new digital kitchen scale, place it on a flat surface and press power. When the display shows zero, hold the calibration button until 'CAL' appears. Place the included weight in the center and wait for the confirmation beep.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your annual tax documents have been processed and are ready to review. The system has identified possible deductions in your home-office expenses and charitable donations. Would you like me to schedule a consultation with our tax advisor?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm checking your connected vehicle's diagnostics. The tire-pressure monitoring system shows low pressure in the rear right tire. Let me transfer you to our roadside-assistance team to find the nearest service center.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Based on your recent watch history, I've noticed you enjoy documentaries about environmental conservation. Would you like to explore our curated collection of award-winning nature documentaries? I can also show you upcoming releases in this category.",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your new mesh Wi-Fi system, start with the main router node. Connect it to your modem with the included ethernet cable and power it on. Once the LED is solid blue, open the app to start adding satellite nodes.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your premium cloud-storage subscription has been upgraded. The new storage limit is 2 TB, effective immediately. The prorated charge of one dollar and fifty cents will appear on your next bill. Your files are being migrated to the new tier now.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your smart water-meter readings. There's an unusual spike in usage between 2 and 4 a.m. This could indicate a leak. Let me connect you with our emergency plumbing team to investigate.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Your home-security system detected motion in Zone 2 at 3:45 p.m. After reviewing the footage, it appears to be a delivery driver dropping off a package. The video has been saved to your cloud storage. Would you like me to show you how to access it?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart washer's data. It's showing excessive vibration during spin cycles. Let me connect you with our appliance technician to check whether there's a balance issue that needs attention.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new personal-finance dashboard. We've added AI-powered spending insights and customizable budget categories. It can now predict upcoming expenses from your historical patterns. Would you like a quick demo?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To extend your smartphone's battery life, go to Settings, then Battery, and tap Battery health. Review the apps using the most power and adjust their background-refresh settings. This can noticeably improve your daily battery performance.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual wine-tasting kit has shipped. The package has four premium wines and tasting-note cards. The online session is scheduled for Friday, September 20th at 7:00 PM. Remember to chill the whites three hours before the event.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart doorbell's settings. The night-vision feature isn't working properly. Let me connect you with our security specialist to ensure optimal coverage of your entryway.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Based on your recent podcast history, I've noticed you enjoy true-crime investigations. Would you like to explore our curated collection of investigative-journalism series? We also have exclusive bonus content from your favorite hosts.",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up two-factor authentication, first download our authenticator app. Open it, tap 'Add account,' and scan the QR code on your screen. This adds an extra layer of security to your sign-in.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your pet's microchip registration has been updated with your new contact information. The change will show in all national pet databases within 24 hours. Would you like me to send you a confirmation of these updates?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart irrigation schedule. Given the latest rainfall figures, we should adjust your watering patterns. Let me connect you with our irrigation specialist to optimize your water-saving settings.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new language-exchange feature. We've partnered with native speakers worldwide for real-time conversation practice. The system matches you by proficiency level and interests. Would you like to try a sample session?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your smart coffee maker's auto-brew, open the app and select 'Schedule.' Set your preferred brew time and strength, then choose your favorite preset recipe or create a custom brewing profile.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your portfolio rebalancing is complete. The adjustments align with your updated risk-tolerance profile. The changes involved selling 10% of your bonds and increasing your exposure to international markets.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your home's air-quality data. Particulate levels have exceeded recommended thresholds. Let me connect you with our environmental specialist to discuss air-purification solutions.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Reviewing your smartwatch data, your sleep patterns show improved deep-sleep duration since you started the nighttime-routine feature. Would you like to explore more wellness insights based on your heart-rate variability?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "To set up your new robot vacuum's mapping, make sure all doors are open in the areas you want cleaned. Start a mapping run by pressing the Home button twice, then let the device finish exploring your space.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your meal-delivery subscription has been updated. Based on your feedback, we've adjusted portion sizes and added more vegetarian options. These changes take effect with your next order on Tuesday.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your connected car's diagnostic report. The transmission-fluid pressure is below optimal levels. Let me connect you with our certified mechanic to schedule a preventive maintenance check.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new virtual-reality fitness classes. We've built immersive workout environments with real-time performance tracking. The system adapts intensity to your heart rate and fitness goals. Would you like to try a demo session?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your smart mirror's health-monitoring features, stand about two feet away and follow the on-screen calibration prompts. The system will measure your vitals and create your baseline health profile for future reference.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your digital artwork has been minted as an NFT. The transaction ID and certificate of ownership are being generated. You'll receive confirmation of the blockchain registration within the next 30 minutes.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your smart oven's temperature variance. Recent readings show irregular heating patterns. Let me connect you with our appliance specialist to ensure proper calibration and safe operation.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Based on your gardening-app data, your tomato plants show signs of optimal growth. Would you like to explore our advanced cultivation tips to maximize yield? We also have new features for tracking nutrient levels.",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To turn on your new smart wallet's contactless-payment feature, open the security settings and verify your identity. Then add your payment cards by scanning them with your phone's camera.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual interior-design consultation is scheduled for Monday at 2:00 PM. Please take photos of the rooms you'd like to discuss and upload them to your project folder before the session.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart fridge's inventory. Several items are nearing their expiration date. Let me connect you with our meal-planning specialist to help optimize your pantry management.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new augmented-reality shopping feature. You can try on clothes virtually and see how furniture looks in your space. The system uses precise measurements for accurate visualization. Would you like a demo?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your smart blinds, first make sure they're properly paired with your home hub. Then open the automation menu to set schedules based on sunlight levels and room temperature.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your biometric security scan is complete. The system has updated your access credentials across all connected devices. These changes take effect within the next 15 minutes.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your home battery system. Charging efficiency has dropped by 15%. Let me connect you with our energy specialist to optimize your storage and electricity use.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Reviewing your digital-wellness data, your stress-management exercises have shown positive results. Would you like to explore our advanced mindfulness programs tailored to your daily routine?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up nutrition tracking on your smart kitchen scale, first connect it to your meal-planning app. Then calibrate the surface and update your dietary preferences for accurate macronutrient calculations.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your meditation session is scheduled for tomorrow at 9:00 AM. The system will guide you through a personalized relaxation journey based on your stress levels and sleep patterns.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart lock's access logs. There have been several failed entry attempts. Let me connect you with our security team to review recent activity and strengthen your door's security protocols.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Based on your home-entertainment preferences, I've noticed you enjoy interactive storytelling games. Would you like to explore our new collection of narrative adventures with adaptive storylines?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To optimize your smart air purifier's performance, place it at least three feet from walls and furniture. Then open the air-quality monitoring screen to set up custom filtration schedules.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your digital insurance policy has been updated with the new coverage options you chose. The changes include stronger cyber protection and coverage for smart devices. The new premium will show on next month's statement.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your solar panels' efficiency data. Recent shading patterns suggest the panel tilt may need adjusting. Let me connect you with our solar-optimization specialist to maximize your energy production.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new smart wardrobe organizer. It tracks how you use your clothes and suggests outfit combinations by weather and occasion. Would you like to see how it can simplify your morning routine?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your new smart shower system, first calibrate the water-temperature sensors. Then create profiles for each family member with their preferred water temperature and pressure.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your genetic health-screening results have been processed. The secure report is available in your patient portal. Our genetic counselor has reviewed the findings and included personalized health recommendations.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart bed's sleep-quality data. The pressure sensors indicate possible mattress wear. Let me connect you with our sleep specialist to discuss comfort-optimization options.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Based on your recent smart-home activity, I've noticed you adjust the lighting often in the evenings. Would you like to explore our new circadian-rhythm lighting presets? They adjust automatically to support your natural sleep cycle.",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your new voice-controlled home theater, place the speakers following the room diagram. Then run the audio-calibration test to optimize the sound for your room's acoustics.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your personalized meal plan has been updated based on your latest nutrition goals. The new plan includes more plant-based protein and omega-3-rich foods. Your shopping list will be generated accordingly.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your smart treadmill's maintenance log. The belt-tension readings are outside the optimal range. Let me connect you with our fitness-equipment specialist to ensure safe, effective workouts.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new digital-art creation tools. We've added AI-assisted brushes and dynamic color palettes. The system learns your artistic style to suggest complementary techniques. Would you like a demo?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To activate fitness tracking on your smart mirror, stand in the marked area and complete a brief movement calibration. The system will then track your form and progress during home workouts.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your home energy-audit appointment is confirmed for next Thursday at 10:00 AM. The technician will assess your insulation, HVAC efficiency, and potential areas for solar-panel installation.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart garage door's activity. There's been an unusual pattern of partial openings. Let me connect you with our security technician to check the motor and sensor alignment.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Based on your cooking preferences, I've noticed you enjoy experimenting with international cuisines. Would you like to explore our new collection of smart recipes with step-by-step video guidance and ingredient-substitution options?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your new smart wine cellar, first calibrate the temperature and humidity sensors. Then create zones for different wine types and set the optimal storage conditions for each.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual personal-training session is scheduled for Wednesday at 3:00 PM. The system will monitor your heart rate and movement patterns to give real-time form corrections.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your smart water heater's performance. The heating elements show irregular power consumption. Let me connect you with our energy-efficiency specialist to optimize the system.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Reviewing your digital reading habits, you've shown interest in historical fiction with scientific themes. Would you like to explore our curated collection of similar works with interactive historical timelines?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up facial recognition on your new smart doorbell, add family photos to the authorized-users gallery. Then adjust the detection sensitivity based on your entryway lighting.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your automated investment strategy has been updated based on recent market trends. The portfolio adjustments focus on emerging tech sectors while keeping within your risk-tolerance parameters.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your connected home-gym data. It looks like the resistance calibration on your smart weight system is drifting. Let me connect you with our fitness-equipment specialist to ensure accurate workout tracking.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new voice-controlled recipe assistant. It can guide you through cooking steps hands-free and automatically adjust ingredient amounts by serving size. Would you like to try it with one of your favorite recipes?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your smart humidifier's auto mode, first place the humidity sensor where you'd like it. Then set your preferred humidity range and schedule in the app's comfort settings.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your premium podcast-network subscription has been renewed. The annual fee of nineteen dollars and ninety-nine cents has been processed, and your access to exclusive content is extended through December 2024.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your smart baby-monitor readings. The room temperature has drifted outside the optimal range several times tonight. Let me connect you with our childcare specialist to discuss environmental controls.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "From your recent music-practice sessions, I can see you're making excellent progress with the virtual piano lessons. Would you like to explore our advanced rhythm-training modules and harmony exercises?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To optimize your smart desk's ergonomic settings, first adjust the height while standing straight. Then set three presets: standing, sitting, and typing. The system will remind you to change posture throughout the day.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual closet-organization session is scheduled for Friday at 11:00 AM. Our style consultant will help you sort your wardrobe and build seasonal capsule collections.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart water-softener data. The regeneration cycles are running more often than expected. Let me connect you with our water-treatment specialist to optimize the system's efficiency.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new language-pronunciation AI. It gives real-time feedback on accent and intonation using advanced speech recognition. Would you like to try a sample lesson in your target language?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up portion control on your smart pet feeder, first calibrate the dispenser for your pet's food type. Then program up to six feeding times with custom amounts for each meal.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your home-insurance policy has been updated to include coverage for smart-home devices. The new premium reflects a 5% discount for your installed security features. These changes take effect next month.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your indoor air-purification system. The HEPA filter's efficiency has dropped below 90%. Let me connect you with our air-quality specialist to schedule a maintenance check.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Based on your VR fitness sessions, you've hit a new personal best in cardiovascular endurance. Would you like to explore our advanced workout programs designed for your fitness level?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your smart medication dispenser, first sort your medications into the labeled compartments. Then program the dispensing schedule per your prescription instructions.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual tax-prep appointment is confirmed for Tuesday at 1:00 PM. Please make sure all required documents are uploaded to your secure portal before the session.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart doorbell's motion-detection zones. There's significant overlap generating duplicate alerts. Let me connect you with our security specialist to optimize the coverage areas.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new smart garden-planning tool. It builds custom planting schedules based on your local climate and soil conditions. Would you like to start planning your spring garden?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To activate your smart window's self-tinting feature, first calibrate the light sensors. Then set your preferred opacity levels for different times of day in the automation menu.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual guitar-lesson package has been processed. You'll have access to 12 weekly sessions, practice materials, and personalized feedback from our instructors. The first lesson is scheduled for Monday at 4:00 PM.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your smart pool system. The pH levels have been fluctuating outside the ideal range.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Based on your smart-home entertainment preferences, I've noticed you enjoy ambient lighting while listening to music. Would you like to explore our new synchronized light-show features for your favorite playlists?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your new smart cat litter box, place it in a quiet spot and plug it in. Then use the app to schedule cleaning cycles and receive maintenance alerts.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual wine tasting is scheduled for Saturday at 6:00 PM. The selected wines will be delivered tomorrow, and tasting notes will be available in your event portal.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart irrigation zones. The soil-moisture sensors in the vegetable garden indicate possible root saturation.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new virtual-reality meditation environments. We've added immersive nature scenes with binaural audio for deeper relaxation. Would you like to preview the new experiences?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up the health-monitoring features on your smart bathroom mirror, stand at the marked distance and complete the initial health scan. The system will set your baseline vitals for daily tracking.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your home-automation schedule has been optimized based on your usage patterns. The new routines will automatically adjust lighting, temperature, and security settings throughout the day.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your smart fridge's energy use. Recent spikes suggest a possible door-seal issue. Let me connect you with our appliance specialist to prevent further energy waste.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Based on your fitness goals and schedule, I've noticed you prefer morning workouts. Would you like to explore our new sunrise yoga sessions with dynamic lighting and gentle wake-up sequences?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To activate your smart mirror's fashion-advisor feature, first complete your style profile. Then take full-length photos in different outfits to help the system learn your preferences.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual cooking-class enrollment is confirmed. The ingredient kit arrives Friday, and your first class with Chef Maria starts Saturday at 2:00 PM.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart vacuum's maintenance log. The brush roll is showing signs of reduced efficiency. Let me connect you with our robotics specialist to prevent possible navigation issues.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new sleep-optimization system. It combines environmental controls with biorhythm monitoring to create your ideal rest environment. Would you like to explore the personalized settings?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your smart outdoor lighting, first define your garden zones in the app. Then set motion activation and ambient-light thresholds for each area.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual art-gallery exhibition is scheduled for next month. The digital preview will be available next week, and invitations will be sent automatically to your guest list.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your smart washer's performance data. The spin efficiency has dropped significantly. Let me connect you with our appliance specialist to diagnose a possible balance issue.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Based on your home-theater usage, I can see you enjoy immersive audio. Would you like to explore our new spatial-audio calibration feature for optimal surround-sound positioning?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your new smart plant-monitoring system, insert the sensors into each pot at the marked depth. Then enter each plant's species in the app for personalized care recommendations.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual financial-planning session is confirmed for Thursday at 2:00 PM. Please complete the risk-assessment questionnaire in your portal before the meeting.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart lock's battery levels. They're draining unusually fast. Let me connect you with our security specialist to ensure proper power management.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new smart wardrobe-care system. It monitors humidity levels and gives fabric-specific care recommendations. Would you like to see how it can extend your clothes' lifespan?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To activate your smart shower's water-saving mode, first calibrate the flow sensor. Then set your preferred temperature and duration limits in the eco-settings menu.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual home-staging consultation is booked for Monday at 3:00 PM. Please upload photos of each room to your client portal before the session.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your smart oven's temperature accuracy. Recent readings suggest possible sensor drift. Let me connect you with our kitchen-appliance specialist for precise calibration.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Based on your smart-home security patterns, I notice you check the outdoor cameras often at night. Would you like to hear about our new AI-powered motion-detection features for better nighttime monitoring?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your smart wine-preservation system, first calibrate the temperature probe. Then program the optimal storage conditions for each variety in your collection.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual wellness assessment is scheduled with Dr. Sharma for Friday at 10:00 AM. The pre-appointment questionnaire is now available in your health portal.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart thermostat's zone control. There's significant temperature variation between rooms. Let me connect you with our HVAC specialist to optimize your system.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new digital-art creation platform. We've added AI-powered brush styles and color-harmony suggestions. Would you like to explore these creative tools?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up voice control for your smart home, first complete the voice-recognition training. Then create custom commands for the routines you use most often.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual-reality fitness assessment has been processed. Your personalized training program will be available tomorrow, with a focus on your core-strength goals.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your smart garage's ventilation system. The air-quality sensors are detecting elevated carbon-monoxide levels. Let me connect you with our safety specialist immediately.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new smart-home fragrance system. It can create custom scent profiles for different rooms and occasions. Would you like to explore the aromatherapy programming options?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up the lighting profiles on your new smart makeup mirror, first calibrate the color-temperature sensors. Then create custom lighting scenes for different times of day and makeup styles.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual personal-styling subscription has been activated. Your first curated wardrobe selection will be available to preview in your style portal next Tuesday.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing your smart water heater's performance. The heating elements show irregular power consumption. Let me connect you with our efficiency specialist to optimize the system.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Based on your home-automation patterns, you might like our new morning-routine orchestration feature. Would you like to explore how it can sync your devices for a smoother start to your day?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To set up your smart pantry-inventory system, first scan each shelf's QR code. Then add your groceries using the barcode scanner to track expiration dates and shopping lists.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "You've reached a milestone in your virtual interior-design project. The 3D renderings of your living-room makeover are now available to review in your project dashboard.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm analyzing your smart window sensors. Several units are detecting seal deterioration. Let me connect you with our energy-efficiency specialist to prevent heat loss.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Let me tell you about our new AI-powered recipe-recommendation system. It learns from your cooking preferences and dietary needs to suggest personalized meal plans. Would you like to explore your custom suggestions?",
+          "emotion": "Enthusiastic"
+        },
+        {
+          "text": "To activate the acoustic optimization on your smart home theater, first run the room-analysis test. Then adjust speaker placement per the system's recommendations for optimal sound distribution.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "Your virtual language-assessment results are ready. Based on your performance, we've built a personalized learning path focused on business communication in French.",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I've located your order ABC123DEF in our warehouse system. The package contains your custom gaming peripherals and will ship via express delivery. Would you like me to turn on text notifications for tracking?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Reviewing order number 987654321, I see your smart-home installation package is scheduled for next week. The technician will arrive between 9 a.m. and noon. Would you like me to send the detailed installation checklist?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing order XY-789-ZW for your annual maintenance subscription. The service includes quarterly check-ups of all your connected devices. The first inspection is due next month. Shall I help you schedule it now?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Your order 2024-45678 for the smart-security system has been processed. The installation team will pre-configure your devices before delivery. Would you like to review the security protocols we'll set up?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I see order TECH-456 is showing some shipping delays. I'm escalating it to our logistics team right now. They'll coordinate with the specialized delivery service for your home-theater equipment.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "For order number 123ABC456, I see you selected our premium smart-lighting package. The system includes 12 color-changing bulbs and 3 motion sensors. Would you like me to explain the different lighting scenes we can pre-program?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing order BK789CD for your smart kitchen appliances. It looks like there's a compatibility issue with one of the selected models. Let me connect you with our kitchen-design specialist to make sure all components work together seamlessly.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Your order 555-SRD for the whole-home water-filtration system is confirmed. The installation includes water-quality sensors and automatic filter-replacement notifications. Would you like to review the maintenance schedule?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Regarding order 56H634F5, I see you chose our advanced home-automation hub. Let's start by setting your device preferences and the initial automation routines. Would you like me to guide you through this process?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Order number 7875678 includes your custom-programmed universal remote. I see it hasn't been paired with your devices yet. Would you like me to walk you through setup for each of your entertainment components?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing order REF-456 for your smart refrigerator. The delivery team has flagged some access restrictions at your address. Let me connect you with our logistics specialist to plan the best delivery route and equipment needed.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Your order AV2024X789 for the premium sound system is being prepared for shipping. Each speaker has been individually tested and calibrated. Would you like to schedule the professional installation service now?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Reviewing order AG7890, I see you selected our energy-management package. The system will help you track and optimize power usage across all your connected devices. Would you like to learn about our solar-integration options?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "For order ARK756, your advanced security cameras have been pre-configured with your network settings. Let me guide you through the initial setup and help you customize the motion-detection zones.",
+          "emotion": "Reassuring"
+        },
+        {
+          "text": "I see order 13579-IOT-24 includes our smart irrigation controller. The system will need calibrating for your specific garden zones and soil types. Would you like me to explain how the moisture sensors should be positioned?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "Your order QC123TEST includes our latest air-quality monitoring system. I see some sensors are showing unusual readings during initial setup. Let me connect you with our environmental specialist to ensure optimal placement and calibration.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Regarding order 999-MEDIA-888, your home-theater components have arrived at our local warehouse. The system includes our white-glove delivery and setup service. Would you like to schedule installation for next week?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "I'm reviewing order SMART444HOME, which includes our comprehensive home-automation upgrade. Let me connect you with our integration specialist to make sure all your existing devices are properly incorporated into the new system.",
+          "emotion": "Concerned"
+        },
+        {
+          "text": "Your order 2024-IOT-789X for the smart window treatments has been processed. The motorized blinds will be pre-programmed with your preferred schedules. Would you like to review the sunrise-automation options?",
+          "emotion": "Neutral"
+        },
+        {
+          "text": "For order NG456A, I see your mesh-network components haven't been optimized for your floor plan yet. Would you like me to help you find the best placement for each node to ensure maximum coverage?",
+          "emotion": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Longform · CSR",
+      "kind": "scripts",
+      "hint": "Scenario + steps. Advance step by step to the end; each step is a guide, say it in your own words.",
+      "items": [
+        {
+          "title": "Scenario 1 · Property management",
+          "scenario": "You're the virtual assistant for a property management company. The tenant is calling to report a maintenance issue in their rental apartment.",
+          "steps": [
+            "Greet and introduce yourself, closing with: “Hi, you've reached the virtual assistant for property management. How can I help you today?”",
+            "Empathize (“Sorry to hear that, let's get it sorted right now”) and ask for their name and the apartment address.",
+            "Verify identity: ask them to confirm their name and move-in date; open their file.",
+            "Ask them to describe in more detail what's going on.",
+            "Ask whether anything changed recently that could be related: a recent storm, work done in the unit, etc.",
+            "Confirm you're logging everything so the technician arrives with the full picture.",
+            "Assess safety: ask whether this is stopping them from using the apartment safely right now (standing water, gas smell, exposed wiring, anything urgent or dangerous).",
+            "If it isn't an emergency, let them know you'll schedule a routine maintenance visit.",
+            "Offer availability: this Thursday from eight a.m. to noon, or Friday from eleven to four; ask which works.",
+            "Book the window and explain they'll get a confirmation text and a heads-up from the technician about thirty minutes before arrival.",
+            "Ask if they'd like you to add a note for the technician (where the problem is, whether it worsens at certain times).",
+            "Ask for a contact phone number in case the technician needs to call ahead.",
+            "Ask whether an adult will be home during the visit; if not, explain the key-access process with prior written authorization.",
+            "Give the work-order number, spelled out: two-three-four, five-six-seven, five-six-seven.",
+            "Warn that if the technician finds the damage is due to tenant misuse rather than normal wear, there may be a repair charge.",
+            "Tell them that if anything worsens before the appointment and seems like a safety issue, to call the emergency line (on the back of the lease and in the confirmation text).",
+            "Ask if there's anything else in the apartment they'd like to mention while you have them on the line.",
+            "Close by confirming the Thursday morning appointment and thanking them for reporting it promptly."
+          ]
+        },
+        {
+          "title": "Scenario 2 · Gym / personal trainer",
+          "scenario": "You're an agent at a fitness club. The customer is calling because they want to start with a personal trainer.",
+          "steps": [
+            "Greet and introduce yourself: “Thanks for calling, this is Alex. How are you today?”",
+            "Explain you'll ask a few questions to match them with the right trainer.",
+            "Ask about their starting point: whether they've worked with a personal trainer before or this would be a first.",
+            "Ask what prompted them to reach out now: a specific goal or a general sense of wanting a change.",
+            "Ask how long they've been exercising and what they've tried on their own.",
+            "Ask whether they have any injuries or anything the trainer should know before the first session.",
+            "Ask how much physical activity they currently do in a typical week.",
+            "Ask how many days a week they can realistically commit and whether they prefer morning, midday or evening.",
+            "Recommend a trainer who fits (e.g. Renee, who specializes in strength for people returning to fitness) and offer a thirty-minute intro session before buying a package.",
+            "Propose times: this Thursday at six p.m. or Saturday at nine a.m.; book whichever they choose.",
+            "Explain how to prepare: comfortable clothes, supportive shoes, arrive five minutes early for new-client paperwork.",
+            "Explain that in the session the trainer will discuss goals and do a basic movement assessment, and that the front desk will go over package pricing afterward.",
+            "Ask for their email to send the confirmation.",
+            "Ask for a phone number in case the trainer needs to reach them.",
+            "Close by confirming Thursday at six and thanking them for calling."
+          ]
+        },
+        {
+          "title": "Scenario 3 · Food delivery (large order)",
+          "scenario": "You're an agent for a food-delivery service. The customer is calling because a large order for a work lunch never arrived.",
+          "steps": [
+            "Greet and introduce yourself: “Thanks for calling, this is Alex. How can I help you today?”; let them know you're pulling up the account.",
+            "Confirm the problem — the food didn't arrive — and ask what time it was supposed to be delivered.",
+            "Review the delivery and explain what you see: order picked up at eleven-fifteen and the courier's GPS idle about twenty minutes later; note that points to a failure after pickup.",
+            "Apologize sincerely and ask whether it was a personal order or others were depending on it.",
+            "Confirm the context (a work lunch for fifteen people) and the total: one hundred eighty-seven dollars.",
+            "Confirm the full order so you agree on what should have arrived (two entree platters, three salads, four bags of fries, fifteen drinks).",
+            "Process a full refund of one hundred eighty-seven dollars to the card on file; state the three-to-five business-day timeframe.",
+            "Add a ten-dollar credit to their account wallet as extra goodwill.",
+            "Offer to re-place the order today and confirm it's from the same restaurant.",
+            "Check the current wait time (about forty-five minutes prep, one hour to one hour ten with delivery) and confirm it works for the group.",
+            "Place the new order at no cost and flag it as priority delivery.",
+            "Confirm the delivery address and ask whether the courier needs anything to get in.",
+            "Explain you've flagged the courier's account for urgent review and that their GPS history will be checked by the quality team.",
+            "Explain that from now on, orders over one hundred dollars will automatically be assigned a top-rated courier.",
+            "Give the refund confirmation number, spelled out: two-zero-two, zero-zero-nine, four-two-one.",
+            "Ask for a direct phone number in case anything changes and close by confirming you'll keep an eye on the order."
+          ]
+        },
+        {
+          "title": "Scenario 4 · Cruise booking (MSC)",
+          "scenario": "You're an agent at MSC Cruises. The customer is calling to book their first family cruise.",
+          "steps": [
+            "Greet and introduce yourself: “Thanks for calling MSC Cruises, this is Alex. How can I help you?”",
+            "Build excitement and ask if it's their first time sailing with the line.",
+            "Ask if they have a destination in mind; if unsure, recommend the Caribbean for a first trip and ask about dates.",
+            "Confirm the season (late February) and length (seven nights) and note you're pulling options.",
+            "Ask how many are traveling and the ages of the children.",
+            "Present two sailing options and ask whether they prefer a quieter ship or one with more activities.",
+            "Recommend the ship that fits and explain cabin options for four (one large or two connecting).",
+            "Ask whether they prefer inside, ocean-view or balcony; recommend the balcony and check availability.",
+            "Read the balcony cabin breakdown (meals, kids' club, entertainment, facilities), the weekly total, and the one-hundred-twenty-dollar port taxes charged separately.",
+            "Offer to explain the drink packages (Premium for adults at eighteen dollars per person per day; non-alcoholic for kids at the same price) and add them if they accept.",
+            "Take traveler details: names exactly as on passports, passport validity, and dates of birth for all four.",
+            "Ask for the booking email and contact phone number.",
+            "Explain payment: a one-hundred-dollar deposit today, balance due before December first, and the cancellation policy after that date.",
+            "Ask how they'd like to pay (card by phone or an emailed link) and send the link if they choose it.",
+            "Explain next steps: online check-in from about sixty days out, the app to track the ship and make reservations, and shore excursions.",
+            "Give the booking reference, spelled out: two-zero-two-four, seven-seven-four, two-one-zero.",
+            "Ask if anything needs clarifying and close, noting you're available seven days a week."
+          ]
+        },
+        {
+          "title": "Scenario 5 · Power outage after a storm",
+          "scenario": "You're an agent for the power company. The customer is calling because they've lost power after a storm.",
+          "steps": [
+            "Greet and introduce yourself: “Thanks for calling, this is Alex. How can I help you?”",
+            "Confirm they've lost power; ask what time it went out and whether it's the whole house or only some areas.",
+            "Ask for their name and service address and open the account.",
+            "Check the system and explain there's an active outage in their neighborhood affecting about three hundred forty customers, the crew is on site, and the fault was located about forty minutes ago.",
+            "Give the estimated restoration time (eight forty-five p.m.), apologize, and explain storms often cause faults more complex than they look from outside.",
+            "Ask whether anything should be noted on the account: medical equipment, oxygen concentrators, anything that makes the outage more than an inconvenience.",
+            "If applicable, add a medical priority and explain what it means (their street moves up in the repair sequence, though it doesn't guarantee being first).",
+            "Ask if they're home alone and whether they have a generator; if they're using candles, recommend caution and battery flashlights due to fire risk.",
+            "Ask whether their heating is electric or gas and gauge the impact for their situation.",
+            "Explain a possible secondary issue at restoration: if their neighbors have power at the estimated time and they don't, to call immediately so someone is sent to their address.",
+            "Tell them they can track the outage in real time on the website or app, updated every fifteen minutes.",
+            "Ask for a mobile number to add SMS alerts and explain they'll be notified when their meter is active again and if the estimate changes.",
+            "Suggest staying in touch with a neighbor to tell whether theirs is a secondary problem.",
+            "Mention the follow-up survey by email and encourage honest feedback if there are delays.",
+            "Close with reassurance, recommending they keep the fridge closed and to call if there's no update by the estimated time."
+          ]
+        },
+        {
+          "title": "Scenario 6 · Power outage (short version)",
+          "scenario": "You're an agent for the power company. The customer is calling because they have no power after a storm.",
+          "steps": [
+            "Greet and introduce yourself: “Thanks for calling, this is Alex. How can I help you?”",
+            "Confirm they have no power; ask when it went out and whether it's the whole house or one area.",
+            "Ask for their name and service address and open the account.",
+            "Check the system and explain there's an active outage affecting about three hundred forty customers, with a crew dispatched about forty minutes ago.",
+            "Give the estimated restoration time (eight forty-five p.m.), apologize, and explain the complexity of storm faults.",
+            "Ask whether medical equipment or other circumstances should be noted; if applicable, add a medical priority and explain what it means.",
+            "Ask if they're alone, whether they have a generator, and give the safety note about candles versus battery flashlights.",
+            "Ask whether heating is electric or gas and gauge the impact.",
+            "Explain the possible secondary issue at restoration and what to do if neighbors get power back and they don't.",
+            "Point them to real-time tracking on web/app every fifteen minutes.",
+            "Ask for a mobile number for SMS alerts and explain the automatic notifications.",
+            "Suggest keeping in touch with a neighbor as a reference.",
+            "Mention the follow-up survey and encourage a response.",
+            "Close with reassurance and the same practical tips."
+          ]
+        },
+        {
+          "title": "Scenario 7 · Brokerage — portfolio drop",
+          "scenario": "You're an agent at a brokerage. The customer is calling, worried their portfolio balance has dropped. Important: you inform and give context, but you do NOT give investment advice — you refer that to their advisor.",
+          "steps": [
+            "Greet and introduce yourself: “Thanks for calling. How can I help you today?”",
+            "Verify identity: ask for their full name and security PIN; open the account.",
+            "Confirm the reason (the balance dropped) and review their positions before quoting figures.",
+            "Give real context: the portfolio is down about six point three percent over two weeks, versus a market that fell four point eight percent in the same period.",
+            "Explain the specific cause of the underperformance: their concentration in Northgate Technology, which fell about eighteen percent after weaker-than-expected earnings.",
+            "Clarify that the rest of the portfolio is behaving reasonably (index funds tracking the market, stable bonds).",
+            "Set the boundary clearly: you can explain what happened and where it stands today, but whether they should hold Northgate is a conversation for their advisor, since you don't have their full financial picture.",
+            "Check whether they have an assigned advisor (James Whitfield) and offer to schedule a call for today.",
+            "Confirm the best contact number (the mobile ending in seven-eight-two-three) and send the request with a note of the reason.",
+            "Use the moment for housekeeping: propose switching from paper to electronic statements and update it if they accept.",
+            "Suggest, without pressure, moving two-factor verification from SMS to an authenticator app for security.",
+            "Ask how they feel about the overall portfolio setup and add any underlying concern they mention to the advisor note.",
+            "Close by summarizing: the advisor calls today with context, the housekeeping changes are done, and the pending review is on the agenda."
+          ]
+        },
+        {
+          "title": "Scenario 8 · Online store — delay, size swap, duplicate charge",
+          "scenario": "You're a customer-service agent for an online store. The customer is calling about a delayed order, wants to swap a size, and spotted a duplicate charge.",
+          "steps": [
+            "Greet warmly, introduce yourself, and ask for their name or the account email to look it up.",
+            "Open the account and ask how you can help.",
+            "On the delay: check tracking, explain there was a carrier delay but it should deliver today, apologize, and offer to send the tracking link.",
+            "If items are missing, check whether the order shipped in two packages from different centers; find the second tracking (estimated tomorrow) and offer to send both links.",
+            "On the size swap: explain the simplest route is to wait for the package and process the exchange on the site (sign in, orders, “exchange”) or by calling again.",
+            "Offer to leave a note on the account for the next agent: they received a medium and want to swap for a large; mention they have one hundred twenty days for the exchange.",
+            "On the duplicate charge: review the charges, identify a duplicate transaction on the fourteenth caused by a system update, and apologize, owning it as your error.",
+            "Process the refund of the duplicate charge; state the three-to-five business-day timeframe and a confirmation email within the hour.",
+            "Reassure them: they don't need to do anything else or contact their bank; if it doesn't appear in five days, call back.",
+            "Close with a summary: two tracking links sent, size-swap note logged, and refund in progress; ask if they need anything else."
+          ]
+        },
+        {
+          "title": "Scenario 9 · Roadside assistance",
+          "scenario": "You're a roadside-assistance agent. The customer is calling from the road because their car has broken down.",
+          "steps": [
+            "Greet and locate them first: ask for an address, an intersection, or the nearest landmark they can see.",
+            "Ask for a quick summary of what happened (breakdown, flat, accident) and, above all, confirm they and any passengers are okay.",
+            "Confirm you're sending their details to the dispatch team and someone will be on the way shortly.",
+            "Give safety guidance: stay away from traffic and, if near the roadway, position well off to the side.",
+            "Ask them to turn on hazard lights and, if they have them, set out the warning triangle or put on the reflective vest.",
+            "Advise staying in or near the vehicle unless there's smoke or leaking fluids; if alone or at night, inside the car with doors locked is usually safest.",
+            "Ask them to conserve phone battery (charger or low-power mode) to stay reachable.",
+            "Collect useful details: visible landmarks, whether they have an urgent commitment (a flight, picking up kids), and whether there are medications or important items to take in case of a tow.",
+            "Explain what happens when the technician arrives: they'll introduce themselves, assess repair on the spot versus a tow, and handle the paperwork.",
+            "Give the safety notice: you'll never be asked for cash on the road unless it's part of your coverage; if anyone makes them uneasy, stay in the car and report it.",
+            "Ask how they're doing and stay on the line until you confirm help is on the way, updating the team on any change."
+          ]
+        },
+        {
+          "title": "Scenario 10 · Return a damaged iPhone",
+          "scenario": "You're a customer-service agent. The customer is calling to return a damaged iPhone.",
+          "steps": [
+            "Greet, introduce yourself, and confirm the reason: “I understand you'd like to return a damaged iPhone — let's sort it out.”",
+            "Ask for their full name and the email or phone tied to the purchase; open the account.",
+            "Ask what's wrong with the phone (cracked screen, water damage, something internal, or a combination) and when the damage happened.",
+            "Confirm it's the device on their account or whether it was a gift, and log everything for a clear record.",
+            "Empathize with how frustrating a damaged phone they rely on daily can be.",
+            "Explain the options depend on when they bought it, coverage, and the type of damage, and that you'll walk them through it step by step.",
+            "Verify the details: the purchase shows March twenty-third; ask for the receipt or order number if they have it.",
+            "Check warranty and coverage; be transparent: since it's out of warranty with no active coverage, a return doesn't cover accidental damage, but there are options (out-of-warranty repair, trade-in, or a possible goodwill exception).",
+            "Run a quick diagnostic: screen condition, whether it powers on and makes calls, casing or port damage, and any liquid exposure.",
+            "Start the return on your side before hanging up and confirm the email on file is correct.",
+            "Offer shipping options: drop it at a store or receive a shipping label; explain the original box isn't needed.",
+            "Give the timeframe (two to three business days after the device is received) and that they'll get email updates.",
+            "Cover data protection: recommend backing up to iCloud and erasing the device (Settings, General, Transfer or Reset, Erase All Content); offer alternatives if the phone won't power on.",
+            "Ask if they have a spare device so they're not cut off and mention loaner options with their carrier; offer to flag the case as urgent.",
+            "Be clear on cost: the repair would be nineteen dollars; offer payment by phone or link, and guarantee they won't be overcharged without approval.",
+            "Close with a summary and the case number, spelled out: three-two-four, five-six-seven, four-three-one."
+          ]
+        },
+        {
+          "title": "Scenario 11 · Confidential health assessment call",
+          "scenario": "You're an agent calling on behalf of the customer's health plan to complete a confidential health-assessment questionnaire.",
+          "steps": [
+            "Introduce yourself and explain the purpose: a confidential questionnaire to point them to the right resources; it takes ten or fifteen minutes; ask if now works.",
+            "Clarify confidentiality: what they share is protected health information and doesn't affect their coverage or premiums.",
+            "Open their record: ask for full name and date of birth.",
+            "Verify identity with the last four digits of the member ID (on their insurance card).",
+            "Explain the format: questions about general health, habits, conditions, and emotional wellbeing; there are no right answers and they can skip anything that doesn't apply.",
+            "General health: how they'd describe their health today (excellent, very good, good, fair, or poor) and how it compares to last year.",
+            "History: whether they have any chronic condition under treatment, whether they've been hospitalized or had surgery in the last twelve months, and when their last check-up was.",
+            "Habits: tobacco use, weekly physical-activity level, diet, alcohol use, and sleep quality.",
+            "Emotional wellbeing (gently): in the last two weeks, sadness, anxiety, or loss of interest; whether stress affects daily life; and whether they have access to mental-health support.",
+            "Thank them for their honesty and acknowledge some questions are personal.",
+            "Medication and prevention: whether they regularly take any prescription and whether they're up to date on preventive screenings.",
+            "Explain next steps: the form goes to the plan in a day or two, they'll get a summary with recommendations or referrals, and mention free programs they may qualify for.",
+            "Ask if they'd like to change, clarify, or add anything before closing the record.",
+            "Give the confirmation number, spelled out: three-four-five, six-seven-seven, seven-six-seven.",
+            "Close by thanking them for their time and cooperation and reminding them they can call with questions about their results."
+          ]
+        },
+        {
+          "title": "Scenario 12 · Airline booking",
+          "scenario": "You're an airline agent. The customer is calling to book a flight.",
+          "steps": [
+            "Greet and introduce yourself: “Thanks for calling, this is Alex. How can I help you today?”",
+            "Offer to help with the booking and let them know you'll ask a few questions to find the best options.",
+            "Ask the departure city and whether they're open to nearby airports, which can sometimes lower the fare.",
+            "Ask the destination and whether it's their final stop or they continue from there.",
+            "Ask the dates and whether they have flexibility, explaining that moving a day can change the price quite a bit.",
+            "Ask whether it's round-trip or one-way, and the return date if applicable.",
+            "Note you're checking availability and ask for a moment while the system loads.",
+            "Before presenting options, ask how many passengers are traveling and whether any is under two years old.",
+            "Ask if anyone needs special assistance so you can note it on the booking.",
+            "Ask their cabin preference (Economy, Comfort Plus, or First) and how they weigh price versus comfort.",
+            "Ask their tolerance for connections (direct versus a cheaper connection) and whether they have a frequent-flyer number; offer to enroll them on the spot.",
+            "Present the options, saying the times and prices aloud: e.g. direct at seven a.m. from one hundred eighty-four dollars per person; direct at one-forty from one hundred sixty-one; one connection from one hundred ninety-eight; and a red-eye from one hundred nineteen.",
+            "When they choose, collect each passenger's details: full legal name, date of birth, and frequent-flyer number if any.",
+            "Explain baggage: carry-on included; checked bag at fifteen dollars each way; recommend adding it now if needed.",
+            "Handle seats: explain Comfort Plus (more room, nineteen dollars per person each way), exit rows, and offer specific seats (e.g. eighteen A and eighteen B).",
+            "Collect contact info: email (read it back to confirm), phone, and how they prefer alerts (SMS, email, or both).",
+            "Read the full cost breakdown and confirm it before charging; offer optional travel insurance (eighteen dollars per person).",
+            "Process payment by phone or hold the itinerary for twenty-four hours if they prefer to pay online.",
+            "Confirm the booking and give the record locator, spelled out: four-four-seven, eight-eight-two, one-nine-zero.",
+            "Explain check-in (opens twenty-four hours before), the recommended airport arrival time, and the change and cancellation terms.",
+            "Close with a summary: flight, times, passengers, seats, baggage, and locator, and wish them a good trip."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Roleplay · CSR",
+      "kind": "scripts",
+      "hint": "Scenario + steps for roleplay. Move through each step; improvise following the guide.",
+      "items": [
+        {
+          "title": "Roleplay 1 · Fraudulent charge (bank)",
+          "scenario": "You're a customer-service agent at a bank. The customer is calling because they've spotted a fraudulent charge on their account.",
+          "steps": [
+            "Welcome and introduce yourself by name, closing with the question: “Thanks for calling, my name is Alex. How can I help you today?”",
+            "Listen and confirm they're reporting a fraudulent charge.",
+            "Apologize sincerely and assure them you'll do everything you can to resolve it.",
+            "Collect identity details: full legal name, account or username, phone on file, email on file, last four digits of the card, and date of birth or security question.",
+            "Verify the details match what's on file before continuing.",
+            "Collect the fraud details: which charge they consider fraudulent (amount, date, merchant), whether they still have the physical card, whether anyone else has account access, and whether they've shopped at that merchant before.",
+            "Apply immediate protection: temporarily block or freeze the card or account, and walk them through extra security steps like changing the password and enabling two-factor verification.",
+            "Confirm the disputed amount aloud — fifteen dollars — and the merchant to validate the details.",
+            "Give the case number, spelled out: zero-seven-four-nine-one-eight-three-eight-one-seven-two.",
+            "Explain the investigation timeframe: five to ten business days.",
+            "Explain next steps: you may contact them for more information, they should watch the account for further suspicious activity, and confirm the best number for follow-up.",
+            "Close the call: ask if they need anything else, reassure them the account is secure, and sign off warmly: “Thanks for letting us know — we've got it from here.”"
+          ]
+        },
+        {
+          "title": "Roleplay 2 · Order never arrived (Uber Eats)",
+          "scenario": "You're a customer-service agent at Uber Eats. The customer is calling because their order never arrived.",
+          "steps": [
+            "Greet warmly and introduce yourself: “Thanks for calling Uber Eats, how can I help you today?”",
+            "Empathize: “Sorry to hear that, I'll do everything I can to help right away.”",
+            "Collect the customer's details: full name, phone or email on the account, order number, and delivery address.",
+            "Ask the specific problem, offering the usual categories: order never arrived, wrong items, missing items, spoiled food, late delivery, or a wrong charge.",
+            "Ask the date and time of the order, which restaurant it was placed with, and whether they've already tried contacting the courier or restaurant.",
+            "Let them know you're locating the order in the system and confirm the delivery address, items, and total aloud.",
+            "Check the delivery status and note the system shows it as “delivered,” which doesn't match what they describe.",
+            "Resolve by offering a refund, as credit or to the original payment method per company policy.",
+            "Communicate the resolution clearly: “I've processed a full refund of fourteen ninety-nine to your original payment method.”",
+            "State the refund timeframe: three to five business days.",
+            "Give the case number, spelled out: A-G-T dash five-two-three dash five-six-seven dash three-four-five-six.",
+            "Explain next steps: they'll get a confirmation email, can check the app for refund status, and should call back if it isn't resolved in the stated window.",
+            "Close: ask if they need anything else, apologize again for the trouble, and end on a positive note."
+          ]
+        },
+        {
+          "title": "Roleplay 3 · Flight booking (airline)",
+          "scenario": "You're a customer-service agent for an airline. The customer is calling because they want to book a flight.",
+          "steps": [
+            "Greet warmly and introduce yourself: “Thanks for calling, I'm your virtual assistant. How can I help you today?”",
+            "Listen to the request and confirm they want to book a flight; let them know you'll guide them through the whole process.",
+            "Collect the customer's details: full legal name as on their ID or passport, date of birth, phone and email for the confirmation, and loyalty-program number if they have one.",
+            "Let them know you're pulling up their account.",
+            "Get travel preferences: origin, destination, preferred dates, one-way or round-trip (with return date if applicable), number of passengers and ages of minors, preferred cabin, airline preferences, and date flexibility.",
+            "Search and present the two best-fit options, with: flight number and airline, departure and arrival times, number of connections, total duration, price per person — one hundred fifty-six dollars — and total cost, plus baggage allowance and extra fees — ten dollars per checked bag.",
+            "Highlight the best-value or most convenient option and answer the customer's questions.",
+            "Confirm each passenger's details: full legal name, date of birth, passport or ID number for international flights, and passport expiry and issuing country.",
+            "Offer add-ons, stating each cost before confirming: checked baggage, seat selection, travel insurance, meal preferences, car or hotel, and airport transfer.",
+            "Review and confirm the booking by reading the full summary: passengers, flight number, airline and route, dates and times, cabin and seat, included extras, and total price breakdown.",
+            "Ask the customer to confirm everything is correct before processing payment.",
+            "Process payment: collect card details, confirm approval, and note any cancellation or change fees by fare type.",
+            "Give the confirmation: provide the record locator, note an email will be sent, explain check-in options and recommended airport arrival time, and remind them to check destination visa requirements.",
+            "Close: ask if they need anything else, wish them a great trip, and thank them for choosing the airline."
+          ]
+        },
+        {
+          "title": "Roleplay 4 · Internet outage (carrier)",
+          "scenario": "You're a customer-service agent for your carrier. The customer is calling because there's an internet outage in their area.",
+          "steps": [
+            "Greet the customer for calling and ask how you can help.",
+            "Ask when the outage started and whether it affects all devices or only some.",
+            "Ask for the customer's name and service address to pull up the account.",
+            "Confirm the modem's last sync time to verify the outage is real and not an equipment issue.",
+            "Explain it's a problem at the node in their area and that restarting the router won't fix it.",
+            "Tell them fifty-four other addresses are affected, so they know it's a known, active incident already being handled.",
+            "Confirm a field technician is already dispatched and give the estimated restoration window: today at four p.m.",
+            "Be honest that if the technician finds physical line damage, the timeline could extend beyond the initial estimate.",
+            "Recommend using their phone's hotspot as a temporary fix for anything urgent.",
+            "Ask whether they work from home to gauge impact and note it on the account.",
+            "Explain they may qualify for an outage credit if it runs long, and offer to flag the account preemptively now so they don't have to call back.",
+            "Point them to the outage section of the app, where they can track the technician's progress and ticket status in real time.",
+            "Ask for their mobile number to subscribe them to SMS alerts about the outage.",
+            "Confirm they'll get an automatic notice the moment their modem re-syncs, not just when the general outage is marked resolved.",
+            "Advise calling back if the restoration notice doesn't arrive by a specific time, at which point the ticket becomes priority.",
+            "Close warmly and reassure them the team is working on it right now."
+          ]
+        },
+        {
+          "title": "Roleplay 5 · Missing package marked delivered",
+          "scenario": "You're a customer-service agent at a department store. The customer is calling because a package marked as delivered is missing.",
+          "steps": [
+            "Greet the customer and ask how you can help.",
+            "Show empathy right away when they say a package is missing, and ask for the order number or account email.",
+            "Pull up the order and confirm aloud the item — a Samsung TV — the ship date — May fifteenth — and the carrier.",
+            "Read the tracking status — “delivered” — with the exact date and time — May fifteenth at two p.m. — and the drop-off location the carrier noted.",
+            "Explain that “delivered” doesn't always mean it's in reach, and describe the three common scenarios: early scan with next-day delivery, package left at an alternate access point, or theft after delivery.",
+            "Before escalating, ask whether they've checked alternate access points and with neighbors, to avoid an unnecessary replacement.",
+            "Ask whether the address is a house or an apartment building, as it affects the odds of a misdelivery.",
+            "Once they confirm the package isn't there, start a replacement shipment during the call so they don't have to wait on the carrier investigation.",
+            "Ask whether they prefer signature-required delivery to their home or picking up the replacement at a carrier office.",
+            "Set clear expectations: the new tracking number arrives by email within a few hours and the replacement takes three to four business days.",
+            "Reassure them that if the original package turns up, they can call for a free return label.",
+            "Close with a summary of what was handled and what to expect next."
+          ]
+        },
+        {
+          "title": "Roleplay 6 · Confusing benefits summary (health)",
+          "scenario": "You're a customer-service agent for a health plan. The customer is calling because they don't understand a benefits summary.",
+          "steps": [
+            "Introduce yourself and the plan, and ask the customer how you can help.",
+            "When they say they don't understand the summary, normalize it immediately: these documents are hard to read and they shouldn't feel bad for not following them.",
+            "Ask for the member ID and the date of service on the summary to locate the claim.",
+            "Pull up the claim and confirm the type of service aloud before giving any explanation.",
+            "Explain the deductible math step by step: the plan's annual deductible — one thousand dollars — the amount already applied — one hundred fifty-six dollars and seventy-eight — what this claim added — fifteen dollars — and the remaining balance — one thousand eight hundred forty-three dollars and twenty-two.",
+            "Clarify that the amount owed is paid directly to the provider, not the insurer, and advise contacting the provider's billing department if they haven't paid yet.",
+            "Invite them to point out anything else in the document that seems confusing; don't assume one explanation clears all their questions.",
+            "Offer to email a plain-language summary of how the deductible and annual out-of-pocket limit work.",
+            "Close by reinforcing that calling with questions about a summary is normal and encouraged, so they feel fully confident reaching out again."
+          ]
+        },
+        {
+          "title": "Roleplay 7 · Return outside the window (Zara)",
+          "scenario": "You're a customer-service agent at Zara. The customer is calling because they want to return an item outside the return window.",
+          "steps": [
+            "Greet the customer at Zara and ask how you can help.",
+            "Look up the order by email or order number and identify the item — a red sweater, size medium — and the purchase date — May fifth.",
+            "Inform them of the usual sixty-day return window and that the item is outside it.",
+            "Before deciding anything or offering a solution, ask the reason for the return, since it determines the available options.",
+            "If the reason is a color or appearance difference from the website, validate it as a legitimate, common issue, not a customer error.",
+            "Present two options: full store credit with a prepaid return label processed immediately, or escalation to a manager for a possible cash refund within twenty-four hours, with no guarantee.",
+            "If they choose store credit, collect their card number.",
+            "Ask for the expiry date and security code.",
+            "Collect their email to send the return label.",
+            "Process it during the call, confirm it'll be active within twenty-four hours and won't expire, and send the prepaid label to the email on file.",
+            "Remind them the credit is officially confirmed once the warehouse receives the returned item.",
+            "Close the call with a friendly summary of what was handled and what to expect next."
+          ]
+        },
+        {
+          "title": "Roleplay 8 · Price match (IKEA)",
+          "scenario": "You're a customer-service agent at IKEA. The customer is calling because they saw a lower price at a competitor and want a price match.",
+          "steps": [
+            "Greet the IKEA customer and ask how you can help.",
+            "When they ask for the price match, request the order number or account email before asking anything about the competitor's price.",
+            "Look up the order and confirm the item — a Billy bookcase — the purchase date — June fifteenth — and the price paid — one hundred twenty-nine dollars — before evaluating anything.",
+            "Ask for the competitor's name, the URL, or the exact listing with the lower price, and confirm it's the same model, size, color, and configuration, not just the same product name.",
+            "Tell them you'll issue a refund of fifteen dollars, the price-match difference.",
+            "Ask for their card to process the refund.",
+            "Confirm the refund timeframe: usually three to five business days depending on payment method.",
+            "Close by confirming what to expect and whether they need anything else on their end."
+          ]
+        },
+        {
+          "title": "Roleplay 9 · Slow internet (carrier)",
+          "scenario": "You're a customer-service agent for your carrier. The customer is calling because their internet is slow.",
+          "steps": [
+            "Take the call, greet, introduce yourself, and ask how you can help.",
+            "When they report slow speeds, ask how long it's been happening and whether it's constant or only at certain times of day.",
+            "Ask whether it affects all devices or only some, and whether it happens on both wired and Wi-Fi.",
+            "Ask for their account number or phone to pull up the account.",
+            "Access the account and verify the contracted speed on the plan.",
+            "Check the network monitoring system for active incidents or degraded nodes in their area before asking them to run checks.",
+            "If the network is fine, ask them to run a speed test from a wired device, explaining Wi-Fi is affected by distance, interference, and equipment age.",
+            "Ask them to share the result — download, upload, and ping — and compare it to the contracted plan.",
+            "If signal levels are degraded, schedule a technician visit and explain what the technician will check, not as a generic visit.",
+            "Ask whether the router is old or company-provided, check for an equipment upgrade, and explain the process or cost — ten dollars.",
+            "Ask whether they've recently added devices, streaming services, or smart-home gear, since increased demand is a common cause of perceived slowdown.",
+            "If it happens at a specific time, check whether they're in a high-congestion area during evening hours.",
+            "Log all results and diagnostic steps in the account notes before closing.",
+            "If it isn't resolved on the call, give a specific follow-up timeframe and confirm who owns the next step: the technician, the network team, or the customer."
+          ]
+        },
+        {
+          "title": "Roleplay 10 · Denied medication (health claims)",
+          "scenario": "You're an agent in the claims department of a health plan. The customer is calling because a medication was denied at the pharmacy.",
+          "steps": [
+            "Answer, introduce yourself along with your department — claims — and ask how you can help.",
+            "When they report a denied medication, ask for their member ID and date of birth before asking anything else.",
+            "Ask for the name of the denied medication to check its coverage status.",
+            "Confirm whether the denial is due to an exclusion, an authorization issue, a step-therapy requirement, or a quantity issue.",
+            "If it requires prior authorization, explain the prescribing doctor must submit a clinical justification before the plan covers it.",
+            "Advise them to contact their doctor today and ask the office to submit the prior-authorization request; give them the channel the doctor should use.",
+            "Ask whether they need the medication urgently; if so, explain the emergency-supply process that may let them get a limited quantity while it's processed.",
+            "Explain the appeal process if they want to formally challenge the denial, including the set timeframe — two business days.",
+            "Advise asking their pharmacy about patient-assistance programs if the medication is urgent.",
+            "Confirm the next steps clearly before closing: the customer works the authorization with their doctor and can call back in forty-eight hours if any issue comes up."
+          ]
+        },
+        {
+          "title": "Roleplay 11 · Damaged item received (Amazon)",
+          "scenario": "You're a customer-service agent at Amazon. The customer is calling because they received a damaged item.",
+          "steps": [
+            "Answer, greet the customer, and ask how you can help.",
+            "When they say they received a damaged item, apologize sincerely and immediately; don't lead with policy questions or ask them to prove the damage before showing empathy.",
+            "Request the order number or account email to pull up the order.",
+            "Ask them to describe the damage — whether it affects the product, the packaging, or both — and whether the item is unusable or partly working.",
+            "Ask whether the outer box showed visible damage on arrival, to tell whether it happened in transit or before shipping.",
+            "Don't require photos as a condition to resolve; if useful for quality, ask as an optional step, never mandatory.",
+            "Determine whether they want a replacement or a refund, without assuming either option or steering them.",
+            "If they want a replacement, check stock availability before confirming; if out of stock, say so immediately and offer an estimate or alternative.",
+            "If they want a refund, confirm whether it goes to the original payment method and give a specific processing timeframe.",
+            "Start the chosen resolution during the call; don't tell them you'll follow up later unless it's unavoidable.",
+            "If the item must be returned, generate a prepaid return label to the email on file immediately; don't make them arrange shipping a damaged item.",
+            "If the item is large, fragile, or heavy and returning it is impractical, consider authorizing them to keep or discard it, and log the decision with its reason.",
+            "Report the damage to the warehouse and quality team with the order details, noting whether it looks like a packaging, picking, or transit issue.",
+            "Confirm the replacement tracking number or the refund timeframe before closing.",
+            "Sign off acknowledging that receiving a damaged item is very frustrating, and thank them for reporting it rather than discarding it."
+          ]
+        },
+        {
+          "title": "Roleplay 12 · Moving — transfer service (carrier)",
+          "scenario": "You're a customer-service agent for your carrier. The customer is calling because they're moving and want to transfer their service.",
+          "steps": [
+            "Answer, greet, introduce yourself, and ask how you can help.",
+            "When they say they're moving, ask for their new address first: coverage availability there determines every other option.",
+            "Check coverage at the new address with the availability tool; don't assume it based on proximity to the current address.",
+            "If there's coverage, confirm which plans and speeds are available there, as they may differ from the current ones.",
+            "If their current plan isn't available at the new address, explain it clearly and present the options; don't enroll them in a plan they didn't ask for.",
+            "Ask the move date and preferred installation date, and confirm available windows before committing a date.",
+            "Explain what happens to service at the current address: the exact disconnection date and whether it stays on until the end of the billing cycle.",
+            "Confirm whether they're responsible for returning equipment from the current address and explain the procedure and timeframe.",
+            "Ask whether they'll self-install or need a technician, and explain the difference in timing and cost if applicable.",
+            "If a technician is needed, confirm the appointment window, that someone over eighteen must be present, and which areas they'll need access to.",
+            "Check whether they're under contract and whether the move triggers an early-cancellation penalty; if so, tell them before processing, not after.",
+            "If the new address has no coverage, don't jump straight to cancellation: check whether a coverage expansion is planned and by when.",
+            "If none is planned, start the cancellation smoothly: they have a legitimate reason and shouldn't feel pressured.",
+            "Confirm the final bill amount, equipment return, and account-closure timeframe if canceling for lack of coverage.",
+            "If service transfers, send a confirmation email with the new address, install date, plan details, and new-equipment info before closing."
+          ]
+        },
+        {
+          "title": "Roleplay 13 · Mental-health coverage (health)",
+          "scenario": "You're a customer-service agent for a health plan. The customer is calling to learn what their plan covers for mental health.",
+          "steps": [
+            "Answer, introduce yourself along with your department, and ask how you can help.",
+            "When they ask about mental-health coverage, access their account immediately; don't give generic plan info before confirming what their specific plan covers.",
+            "Ask for the member ID and date of birth to verify identity and access the right benefits.",
+            "Ask whether they're looking for outpatient therapy, inpatient care, psychiatry and medication management, or a combination; each may have different coverage rules and copays.",
+            "Open the mental-health benefits section and review it before speaking: confirm whether a deductible, copay, or coinsurance applies, and whether there's a session limit.",
+            "Explain in plain terms how their policy's coverage rules work for mental health versus comparable services.",
+            "Ask whether they already have a provider in mind or need help finding one; this determines whether you explain benefits or run a provider search.",
+            "If they need a provider, search the mental-health network specifically, which is often managed separately from the general medical network.",
+            "Before giving names, confirm each provider is accepting new patients and the customer's specific plan, since availability changes and directories go stale.",
+            "Ask their preferences — video or in-person, therapist gender, specialty like trauma or anxiety, language — and filter before presenting options.",
+            "If they're calling in crisis or with urgent symptoms, don't treat it as a routine inquiry: provide crisis-care resources immediately and handle the benefits question second.",
+            "Explain whether the plan requires a referral before seeing a mental-health provider.",
+            "Confirm whether their deductible applies to mental-health visits and how much has been met this year, since it affects what they'll pay at the first visit.",
+            "Advise confirming coverage with the provider's office before the first visit and what to ask: plan name, member ID, and whether the provider bills in-network.",
+            "Ask if they need anything else about mental health or any other benefit before closing.",
+            "Sign off warmly and without clinical coldness: they may be calling under considerable personal pressure."
+          ]
+        },
+        {
+          "title": "Roleplay 14 · Auto-renewal dispute (Amazon Prime)",
+          "scenario": "You're a customer-service agent at Amazon Prime. The customer is calling to dispute an auto-renewal charge.",
+          "steps": [
+            "Answer, greet the customer, and ask how you can help.",
+            "When they dispute the charge, check the account before asking for details: the history tells you more than their memory in most cases.",
+            "Identify the subscription product, the charge date, the amount, and the renewal date that generated it.",
+            "Review the history for when the subscription started, through which channel, and whether they opted in explicitly or via a promotion or add-on at checkout.",
+            "Check whether a renewal notice was sent before the charge; most subscriptions must notify, and you should confirm it happened.",
+            "Verify the notice went to the correct email on file; if their email had changed and the notice went to an old one, that's decisive.",
+            "Don't ask whether they remember signing up before checking the record yourself; come to the conversation with the facts in hand.",
+            "If the record shows a clear opt-in and the notice was sent properly, explain the specific enrollment and notice dates before explaining the charge.",
+            "If enrollment came via a promotional add-on with unclear opt-in text, treat it as an ambiguous case and side with the customer rather than defending the process.",
+            "If the notice wasn't sent or went to a wrong address, process a full refund without demanding more justification: it's a company administrative error.",
+            "Cancel the subscription during the call, whether or not the refund is approved; don't make them ask for cancellation separately.",
+            "Confirm the effective cancellation date and whether they keep access to benefits until the end of the paid period.",
+            "If there's a refund, confirm amount, method, and a specific timeframe in business days, without a vague window.",
+            "If it isn't approved, explain exactly why, cite the enrollment and notice dates, and give clear info about the escalation or complaint process.",
+            "Log the outcome on the account and flag recurring patterns of unclear opt-in text to the product team if it isn't the first case."
+          ]
+        },
+        {
+          "title": "Roleplay 15 · Business account outage (carrier)",
+          "scenario": "You're a customer-service agent for business services at your carrier. The customer is calling because there's a technical outage on a business account.",
+          "steps": [
+            "Answer, greet, confirm you're speaking with the account holder or an authorized contact, and ask how you can help.",
+            "When they report a technical problem on a business account, treat the urgency as higher than a residential customer from the first moment: the disruption has direct financial impact.",
+            "Request the account number and the nature of the problem before pulling up the account, to navigate faster to the right section.",
+            "Pull up the account and confirm the service type, the SLA level if applicable, and whether they have a dedicated support queue or assigned account manager.",
+            "Ask how long it's been happening, the impact — employees unable to work, point-of-sale down, phone lines affected — and how many locations or users are affected.",
+            "Check network monitoring for the business's dedicated circuit or connection, which usually has infrastructure separate from residential service.",
+            "If you detect a network-level fault, open a priority ticket immediately and escalate to the business technical team; don't try to fix a circuit fault with residential steps.",
+            "Provide the ticket number during the call, not after: the customer needs a reference for follow-up.",
+            "Confirm the escalation process: who owns the ticket, their role, and how they'll receive updates.",
+            "Ask whether the business has a backup connection; if not and the outage will run long, suggest temporary options like a mobile hotspot or a backup provider if applicable.",
+            "Confirm the preferred contact method for updates — phone, email, or SMS — and the best number or address during business hours.",
+            "Set a proactive update cadence: commit to reaching out at a specific interval even without a fix, so they don't have to call.",
+            "If a third-party provider or an off-network point is involved, explain it clearly and say what you're doing to bring that party in; don't use it as an excuse to step back.",
+            "Document the outage timeline, every diagnostic step, and every commitment made in the account notes in real time.",
+            "Before closing, confirm whether the SLA has been breached or is at risk, and proactively start the credit or compensation process; don't wait for the customer to ask."
+          ]
+        },
+        {
+          "title": "Roleplay 16 · Costs rose at the start of the year (health)",
+          "scenario": "You're a customer-service agent for a health plan. The customer is calling because their costs went up at the start of the year and they don't understand why.",
+          "steps": [
+            "Answer, introduce yourself along with your department, and ask how you can help.",
+            "When they express confusion about the cost increase at the start of the year, pull up the account and check the policy renewal date before asking for more details.",
+            "Confirm whether the policy year matches the calendar year or is a non-standard year: not all renew on January first.",
+            "Request the member ID and date of birth to verify identity before discussing financial information.",
+            "Pull last year's and this year's deductible and annual out-of-pocket balances to speak with exact figures.",
+            "Explain in plain language what a deductible reset means: last year's accumulated amount doesn't carry over and starts from zero.",
+            "Confirm the exact deductible amount for the current year; if it changed after renewal, tell them the old and new figures.",
+            "Review recent claims for the new year and explain step by step why they cost more, tying it to the specific services they received, not in the abstract.",
+            "If they have a family policy, explain the individual and family deductible thresholds and how they interact, a common source of confusion.",
+            "If their policy changed at renewal and the new one has a higher deductible, acknowledge it clearly so they don't think it's just the same plan resetting.",
+            "If they didn't actively choose the new plan and it auto-renewed, explain the process and whether there's a window to make changes.",
+            "Advise how to track their deductible progress through the year, via the member portal and by calling, so there are no surprises.",
+            "Offer to review upcoming procedures or prescriptions so they know what they'll spend before meeting the deductible.",
+            "Close by confirming their current deductible balance and their next steps if they have more questions about specific claims."
+          ]
+        },
+        {
+          "title": "Roleplay 17 · Gift-order problem (Zalando)",
+          "scenario": "You're a customer-service agent at Zalando. The customer is calling because there's a problem with a gift order.",
+          "steps": [
+            "Answer, greet the customer, and ask how you can help.",
+            "When they report a gift-order problem, immediately ask whether they're the sender or the recipient: this determines what information they can access and what actions you can take.",
+            "If they're the sender, access their account with their email or order number.",
+            "If they're the recipient, ask for the order number if they have it; if not, ask for the sender's name and the shipping address to locate the order.",
+            "Handle recipient calls with extra privacy care: don't reveal the sender's account details, payment method, or anything that could ruin a surprise.",
+            "Ask what the specific problem is — delay, wrong item, damaged item, missing gift message, or other — before looking up the details.",
+            "Access the order and check the gift options selected: gift wrap, message, separate billing address, to understand what should have happened.",
+            "If the gift message was missing, look up the text on the order and offer to send it to the recipient by email or include it with a replacement.",
+            "If the wrong item shipped, treat it as a standard wrong-item case, but keep in mind the recipient may not know the price and don't mention it.",
+            "If it arrived damaged, arrange a replacement without requiring the recipient to return the item: forcing a return on a gift recipient is a poor experience.",
+            "If a replacement will ship, confirm the recipient's address already on the order instead of asking again, so they don't feel they're being verified.",
+            "If the sender must be contacted to resolve it — for example, to re-authorize a payment — contact them directly, not through the recipient.",
+            "Don't send confirmation emails with pricing to the recipient if the gift was bought with a separate billing address; confirm where communications will go before processing anything.",
+            "If it can't be resolved without contacting the sender, explain this to the recipient and confirm the sender will be contacted without revealing the reason if they prefer.",
+            "Close by confirming what the recipient or sender can expect and by when; gifts often have event-driven urgency, so acknowledge it when relevant."
+          ]
+        }
+      ]
+    }
+  ]
+}
